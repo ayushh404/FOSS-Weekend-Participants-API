@@ -4,5 +4,12 @@
         "roll_number": "LCS2020000",
         "age": "19",
         "hobbies": ["reading", "writing", "playing badminton", "singing"]
+    },
+
+    {
+        "name": "Ayush Anand",
+        "roll_number": "LIT2022009",
+        "age": "19",
+        "hobbies": ["reading", "writing", "playing badminton", "drawing"]
     }
 ]
